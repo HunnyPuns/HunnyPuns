@@ -6,8 +6,8 @@ https://twitch.tv/Levitance
 You can also find my Nagios plugins on the Nagios Exchange.
 https://exchange.nagios.org/directory/Owner/HunnyPuns/1
 
-And on Twitter
-https://twitter.com/MichaelBellerue
+And on Mastadon
+@levitance@defcon.social
 
 
 <!---
