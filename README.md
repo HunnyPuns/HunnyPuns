@@ -1,13 +1,10 @@
 Hello,
 
 I am @HunnyPuns. I write silly little programs, and plugins for Nagios and Nagios-like systems. Sometimes you can catch me on Twitch writing these plugins, or playing some games.
-https://twitch.tv/Levitance
 
-You can also find my Nagios plugins on the Nagios Exchange.
-https://exchange.nagios.org/directory/Owner/HunnyPuns/1
+You can also find my Nagios plugins on the Nagios Exchange
 
-And on Mastadon
-@levitance@defcon.social
+And, now that Twitter sucks, you can find me on Mastadon.
 
 
 <!---
